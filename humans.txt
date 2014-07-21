@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# 
+
+/*TEAM*/
+Developer: Gerardo Rodriguez
+Twitter: @gerard0rf
+Github: https://github.com/gerardorf
+Location: Benimaclet, Valencia, Spain
+
+/*THANKS*/
+Everybody at La Cova de Benimaclet
+Twitter: @XLaCovaX
+Facebook: https://es-es.facebook.com/lacuevadebenimaclet
+Location: Benimaclet, Valencia, Spain
